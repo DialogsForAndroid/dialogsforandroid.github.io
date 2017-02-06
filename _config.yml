@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+
+title: Dialogs for Android
+description: An implementation of Material Design dialogs
+show_downloads: false
