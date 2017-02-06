@@ -1,4 +1,4 @@
-com.afollestad.materialdialogs.color
-com.afollestad.materialdialogs.folderselector
-com.afollestad.materialdialogs.prefs
-com.afollestad.materialdialogs.simplelist
+io.github.dialogsforandroid.color
+io.github.dialogsforandroid.folderselector
+io.github.dialogsforandroid.prefs
+io.github.dialogsforandroid.simplelist
